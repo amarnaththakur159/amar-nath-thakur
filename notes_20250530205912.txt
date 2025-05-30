@@ -1,0 +1,73 @@
+05.30 8:58 PM
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amar Nath Thakur</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #004466;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      padding: 10px;
+      background-color: #ddd;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004466;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    footer {
+      background-color: #004466;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Amar Nath Thakur</h1>
+    <p>Welcome to my personal website</p>
+  </header>
+  <nav>
+    <a href="#about">আমার সম্পর্কে</a>
+    <a href="#projects">কাজ</a>
+    <a href="#contact">যোগাযোগ</a>
+  </nav>
+  <section id="about">
+    <h2>আমার সম্পর্কে</h2>
+    <p>আমি Amar Nath Thakur। আমি একজন সৃষ্টিশীল মানুষ, যিনি সবসময় নিজের মতো থাকেন।</p>
+  </section>
+  <section id="projects">
+    <h2>কাজ</h2>
+    <p>আমি বিভিন্ন প্রোজেক্টে কাজ করি – চাইলে ভবিষ্যতে এখানে আমার কাজের নমুনা যোগ করব।</p>
+  </section>
+  <section id="contact">
+    <h2>যোগাযোগ</h2>
+    <p>ইমেইল: your.email@example.com</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Amar Nath Thakur. সর্বস্বত্ব সংরক্ষিত।</p>
+  </footer>
+</body>
+</html>
+
